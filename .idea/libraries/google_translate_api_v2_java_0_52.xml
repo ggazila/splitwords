@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="google-translate-api-v2-java-0.52">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/google-translate-api-v2-java-0.52.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/google-translate-api-v2-java-0.52.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
