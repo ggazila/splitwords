@@ -1,3 +1,5 @@
+package logika;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -30,11 +32,6 @@ class SplitText {
             if (set.first().length() < 1) set.remove(set.first());
             else break;
         }
-
-
-        //Test
-//        System.out.println(set);
-//        System.out.println(set.size());
 
         System.out.println("Обработка выполнена");
         return (TreeSet<String>) set;
